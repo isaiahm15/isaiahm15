@@ -1,8 +1,8 @@
-<h1>Hi, I'm Isaiah! <br/><a href="https://github.com/IsaiahMurphy">IT Specialist</a></h1>
+<h1>Hi, I'm Isaiah! <br/><a href="https://github.com/isaiahm15">IT Specialist</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/isaiahm15/ActiveDirectoryLab)
 <h2>📄 Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
