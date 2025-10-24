@@ -6,8 +6,9 @@
 - 💬 Ask me about <i>**Computer Hardware, Troubleshooting, Gaming**</i>
 
 <h2>🖥️ IT Projects:</h2>
+<h3 <br> Active Directory </br></h3>
 
-  - [Active Directory Home Lab](https://github.com/isaiahm15/ActiveDirectoryLab)
+  - [Deploying AD](https://github.com/isaiahm15/ActiveDirectoryLab)
 
 <h2 align="left">Connect with me 👇🏾</h2>
 <p align="left">
