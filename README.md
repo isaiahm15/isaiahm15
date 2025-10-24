@@ -8,7 +8,7 @@
 <h2>🖥️ IT Projects:</h2>
 <h3 <br> Active Directory </br></h3>
 
-  - [Deploying AD](https://github.com/isaiahm15/ActiveDirectoryLab)
+  - [Deploying AD](https://github.com/isaiahm15/ADdeployment)
 
 <h2 align="left">Connect with me 👇🏾</h2>
 <p align="left">
