@@ -12,7 +12,7 @@
 <h2 align="left">Connect with me 👇🏾</h2>
 <p align="left">
 <a href="https://linkedin.com/in/isaiahmurphy" target="blank"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="isaiahmurphy" height="40" width="40" /></a>
-<a href="mailto:murphyisaiah4@gmail.com" target="blank"><img align="top" src="https://img.icons8.com/?size=192&id=X0mEIh0RyDdL&format=png" alt="gmail" height="45" width="45" /></a>
+<a href="mailto:murphyisaiah4@gmail.com" target="blank"><img align="top" src="https://img.icons8.com/?size=192&id=X0mEIh0RyDdL&format=png" alt="gmail" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">🤓 Language and Tools I've worked with:</h2>
