@@ -11,7 +11,7 @@
 
 <h2 align="left">Connect with me 👇🏾</h2>
 <p align="left">
-<a href="https://linkedin.com/in/isaiahmurphy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="isaiahmurphy" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/isaiahmurphy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="isaiahmurphy" height="50" width="50" /></a>
 <a href="mailto:murphyisaiah4@gmail.com" target="blank"><img align="top" src="https://img.icons8.com/?size=192&id=X0mEIh0RyDdL&format=png" alt="gmail" height="40" width="40" /></a>
 </p>
 
