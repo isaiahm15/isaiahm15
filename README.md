@@ -6,20 +6,20 @@
 - 💬 Ask me about <i>**Computer Hardware, Troubleshooting, Gaming**</i>
 
 <h2>🖥️ IT Projects ➡️☁️</h2>
- <li><h4 <br> osTicket: a Help Desk Ticketing System! </br></h4></li>
+ <h4 <br> osTicket: a Help Desk Ticketing System! </br></h4>
 
   - [Installing osTicket](https://github.com/isaiahm15/osticket-installation)
   - [osTicket: Navigating the Staff Panel and Configuration](https://github.com/isaiahm15/osticket-configuration)
   - [osTicket: The Lifecycle of a Ticket](https://github.com/isaiahm15/osticket-lifecycle)
   
- <li><h4 <br> Active Directory </br></h4></li>
+ <h4 <br> Active Directory </br></h4>
 
   - [Deploying Active Directory using Azure (On-Premises)](https://github.com/isaiahm15/ADdeployment)
   - [User Creation with Powershell ISE](https://github.com/isaiahm15/ad-user-creation)
   - [Managing Network File Sharing and Permissions with AD](https://github.com/isaiahm15/ad-file-share-and-permissions)
   - [Account Lockout Policies with Group Policy Management](https://github.com/isaiahm15/ad-account-lockouts)
 
- <li><h4 <br> Networking </br></h4></li>
+ <h4 <br> Networking </br></h4>
 
   - [CNAMEs, DNS Servers & Caches](https://github.com/isaiahm15/networking-dnspractice)
   - [Virtual Private Networks](https://github.com/isaiahm15/networking-vpn)
