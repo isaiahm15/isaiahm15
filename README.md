@@ -10,6 +10,7 @@
 
   - [Installing osTicket](https://github.com/isaiahm15/osticket-installation)
   - [osTicket: Navigating the Staff Panel and Configuration](https://github.com/isaiahm15/osticket-configuration)
+  - [osTicket: The Lifecycle of a Ticket](https://github.com/isaiahm15/osticket-lifecycle)
   
 <h4 <br> Active Directory </br></h4>
 
