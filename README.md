@@ -10,6 +10,7 @@
 
   - [Deploying Active Directory using Azure (On-Premises)](https://github.com/isaiahm15/ADdeployment)
   - [User Creation with Powershell ISE](https://github.com/isaiahm15/ad-user-creation)
+  - [Managing Network File Sharing and Permissions with AD](https://github.com/isaiahm15/ad-file-share-and-permissions)
 
 <h3 <br> Networking </br></h3>
 
