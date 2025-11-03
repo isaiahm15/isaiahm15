@@ -9,6 +9,7 @@
 <h4 <br> osTicket: a Help Desk Ticketing System! </br></h4>
 
   - [Installing osTicket](https://github.com/isaiahm15/osticket-installation)
+  - [osTicket: Navigating the Staff Panel and Configuration](https://github.com/isaiahm15/osticket-configuration)
   
 <h4 <br> Active Directory </br></h4>
 
