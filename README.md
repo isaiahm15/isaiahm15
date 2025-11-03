@@ -13,6 +13,7 @@
 <h3 <br> Networking </br></h3>
 
   - [CNAMEs, DNS Servers & Caches](https://github.com/isaiahm15/networking-dnspractice)
+  - [VPNs](https://github.com/isaiahm15/networking-vpn)
 
 <h2 align="left">Connect with me 👇🏾</h2>
 <p align="left">
